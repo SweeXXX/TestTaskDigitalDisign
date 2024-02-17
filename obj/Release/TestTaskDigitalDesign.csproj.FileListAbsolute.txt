@@ -1,0 +1,12 @@
+D:\Никита\fakk\TestTaskDigitalDesign\bin\Release\TestTaskDigitalDesign.exe.config
+D:\Никита\fakk\TestTaskDigitalDesign\bin\Release\TestTaskDigitalDesign.exe
+D:\Никита\fakk\TestTaskDigitalDesign\bin\Release\TestTaskDigitalDesign.pdb
+D:\Никита\fakk\TestTaskDigitalDesign\obj\Release\TestTaskDigitalDesign.csproj.AssemblyReference.cache
+D:\Никита\fakk\TestTaskDigitalDesign\obj\Release\TestTaskDigitalDesign.csproj.SuggestedBindingRedirects.cache
+D:\Никита\fakk\TestTaskDigitalDesign\obj\Release\TestTaskDigitalDesign.Resource1.resources
+D:\Никита\fakk\TestTaskDigitalDesign\obj\Release\TestTaskDigitalDesign.TestTaskForm.resources
+D:\Никита\fakk\TestTaskDigitalDesign\obj\Release\TestTaskDigitalDesign.Properties.Resources.resources
+D:\Никита\fakk\TestTaskDigitalDesign\obj\Release\TestTaskDigitalDesign.csproj.GenerateResource.cache
+D:\Никита\fakk\TestTaskDigitalDesign\obj\Release\TestTaskDigitalDesign.csproj.CoreCompileInputs.cache
+D:\Никита\fakk\TestTaskDigitalDesign\obj\Release\TestTaskDigitalDesign.exe
+D:\Никита\fakk\TestTaskDigitalDesign\obj\Release\TestTaskDigitalDesign.pdb
